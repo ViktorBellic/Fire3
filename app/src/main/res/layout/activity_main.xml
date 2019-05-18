@@ -29,8 +29,9 @@
                 android:gravity="center"
                 android:text="Datos TCG SCAN"
                 />
-
-
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
         </LinearLayout>
 
     </LinearLayout>
